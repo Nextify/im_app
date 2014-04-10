@@ -1,10 +1,3 @@
-# Note
-
-```zsh
-git clone https://github.com/37lr/Tr.git
-```
-
-```
-cd Tr
-bundle install
-```
+1. Rails 4.1.0
+2. Ruby >= 1.9.3
+3. ...
